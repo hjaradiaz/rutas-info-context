@@ -1,0 +1,32 @@
+{
+  "restaurant": [
+    {
+      "nombre": "Arroz con leche",
+      "precio": "12",
+      "categoria": "Postres",
+      "descripcion": "arroz leche",
+      "id": "68a2ab7e-8e30-48ec-9057-71458df5b668"
+    },
+    {
+      "nombre": "jugo de manzana",
+      "precio": "12",
+      "categoria": "Bebidas",
+      "descripcion": "Manzana",
+      "id": "f4d9249b-178e-4e1c-9432-15f436d9bf7e"
+    },
+    {
+      "nombre": "torta 3 leches",
+      "precio": "20",
+      "categoria": "Postres",
+      "descripcion": "leche",
+      "id": "7a6d9bf6-dc67-4f03-9554-54a8811b3543"
+    },
+    {
+      "nombre": "ensalada de fideos",
+      "precio": "15",
+      "categoria": "Ensaladas",
+      "descripcion": "fideos",
+      "id": "f68e8054-de8c-4259-8115-e4a1ab42ae12"
+    }
+  ]
+}
